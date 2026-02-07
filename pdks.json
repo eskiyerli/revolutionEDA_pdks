@@ -11,7 +11,7 @@
     },
     {
       "name": "ihp_pdk",
-      "process": SG13G2,
+      "process": "SG13G2",
       "version": "0.1.0",
       "license": "Apache 2.0 license",
       "type": "binary",
