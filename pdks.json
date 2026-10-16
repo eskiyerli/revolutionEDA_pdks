@@ -21,7 +21,11 @@
         "linux-x86_64-py312": "https://github.com/eskiyerli/revolutionEDA_pdks/releases/download/ihp_pdk-v0.3.0/ihp_pdk-linux-x86_64-py3.12.zip",
         "linux-x86_64-py313": "https://github.com/eskiyerli/revolutionEDA_pdks/releases/download/ihp_pdk-v0.3.0/ihp_pdk-linux-x86_64-py3.13.zip",
         "linux-x86_64-py314": "https://github.com/eskiyerli/revolutionEDA_pdks/releases/download/ihp_pdk-v0.3.0/ihp_pdk-linux-x86_64-py3.14.zip",
-        "linux-x86_64": "https://github.com/eskiyerli/revolutionEDA_pdks/releases/download/ihp_pdk-v0.3.0/ihp_pdk-linux-x86_64-py3.14.zip"
+        "windows-amd64-py312": "https://github.com/eskiyerli/revolutionEDA_pdks/releases/download/ihp_pdk-v0.3.0/ihp_pdk-windows-amd64-py3.12.zip",
+        "windows-amd64-py313": "https://github.com/eskiyerli/revolutionEDA_pdks/releases/download/ihp_pdk-v0.3.0/ihp_pdk-windows-amd64-py3.13.zip",
+        "windows-amd64-py314": "https://github.com/eskiyerli/revolutionEDA_pdks/releases/download/ihp_pdk-v0.3.0/ihp_pdk-windows-amd64-py3.14.zip",
+        "linux-x86_64": "https://github.com/eskiyerli/revolutionEDA_pdks/releases/download/ihp_pdk-v0.3.0/ihp_pdk-linux-x86_64-py3.14.zip",
+        "windows-amd64": "https://github.com/eskiyerli/revolutionEDA_pdks/releases/download/ihp_pdk-v0.3.0/ihp_pdk-windows-amd64-py3.14.zip"
       },
       "version": "0.3.0"
     }
