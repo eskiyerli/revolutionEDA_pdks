@@ -3,7 +3,7 @@
     {
       "name": "ihp_pdk",
       "process": "SG13G2",
-      "pdk_version": "0.1.0",
+      "pdk_version": "0.3.0",
       "license": "Apache 2.0 license",
       "type": "source",
       "description": "Revolution EDA PDK for IHP SG13G2 technology source module",
@@ -12,12 +12,14 @@
     {
       "name": "ihp_pdk",
       "process": "SG13G2",
-      "pdk_version": "0.1.0",
+      "pdk_version": "0.3.0",
       "license": "Apache 2.0 license",
       "type": "binary",
       "description": "Revolution EDA PDK for IHP SG13G2 technology binary version",
       "binary_urls": {
-        "linux-x86_64-py313": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_pdks/main/ihp_pdk/linux-x86_64-py313.zip"
+        "linux-x86_64-py312": "https://github.com/eskiyerli/revolutionEDA_pdks/releases/download/ihp_pdk-v0.3.0/ihp_pdk-linux-x86_64-py3.12.zip",
+        "linux-x86_64-py313": "https://github.com/eskiyerli/revolutionEDA_pdks/releases/download/ihp_pdk-v0.3.0/ihp_pdk-linux-x86_64-py3.13.zip",
+        "linux-x86_64": "https://github.com/eskiyerli/revolutionEDA_pdks/releases/download/ihp_pdk-v0.3.0/ihp_pdk-linux-x86_64-py3.13.zip"
       }
     }
   ]
